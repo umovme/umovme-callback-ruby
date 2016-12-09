@@ -1,6 +1,4 @@
-# umov.me callback sample #
-
-### Ruby Version ###
+# umov.me callback sample in Ruby#
 
 ### Dependencias ###
 * ruby 2.3 
